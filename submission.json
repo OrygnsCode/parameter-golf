@@ -1,4 +1,5 @@
 {
   "handle": "OrygnsCode",
+  "architecture": "1-10-1 Sandwich (dim=1344, SwiGLU, GQA 16:4, FP16 embed + INT4 weights)",
   "score": "PENDING CLUSTER RUN"
 }
